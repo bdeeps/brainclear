@@ -1,0 +1,126 @@
+{
+  "slug": "brainclear",
+  "box": 30,
+  "question": "How does the brain work?",
+  "url": "https://glassbox-production-fd52.up.railway.app/e/brainclear/",
+  "app": "https://glassbox-production-fd52.up.railway.app/brainclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "8,500 years from holes in skulls to a count of 86 billion neurons.\n\n6500 BCE: Stone Age surgeons open the skull\n1600 BCE: The first written description of the brain\n400 BCE: The brain is the seat of the mind\n1664: The word “neurology” is born\n1791: Frog legs twitch with electricity\n1861: Speech has a place\n\nThe full story, with 31 moments, sources and charts: glassbox-production-fd52.up.railway.app/e/brainclear/history (link in bio)\n\nThen play with how it works: glassbox-production-fd52.up.railway.app/brainclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #brain #neuroscience #neurons #synapses #memory #sleep #history",
+      "youtube": {
+        "title": "The history of the brain in 45 seconds #shorts",
+        "description": "8,500 years from holes in skulls to a count of 86 billion neurons.\n\n6500 BCE · Stone Age surgeons open the skull (Neolithic people)\n1600 BCE · The first written description of the brain (Unknown Egyptian physician)\n400 BCE · The brain is the seat of the mind (Hippocratic writers)\n1664 · The word “neurology” is born (Thomas Willis, with drawings by Christopher Wren)\n1791 · Frog legs twitch with electricity (Luigi Galvani)\n1861 · Speech has a place (Paul Broca)\n\n▶ Full history: https://glassbox-production-fd52.up.railway.app/e/brainclear/history/\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/brainclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does the brain work?\n\n86 billion neurons, 100 trillion connections and about 20 watts. Take a 3D brain apart, fire a neuron, light up the areas you use to speak, and watch memories move while you sleep.\n\n→ Your brain: about 1.4 kg of soft tissue, folded so a pillowcase-sized sheet fits in your skull.\n→ Four lobes on each side, a cerebellum for balance, and a brainstem that keeps you breathing.\n→ A neuron rests at −70 mV. Push it past −55 mV and it fires an all-or-nothing spike.\n→ A stronger push means more spikes, not bigger ones, racing down a myelin-wrapped axon.\n→ At a synapse, the spike releases chemicals that cross a gap 20 millionths of a millimetre wide.\n\nPlay with it yourself. It's free and open source: glassbox-production-fd52.up.railway.app/brainclear (link in bio)\n\nBox No. 030 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #brain #neuroscience #neurons #synapses #memory #sleep #stroke #humanbody #threejs",
+    "carousel": "Swipe through: How does the brain work?\n\n86 billion neurons, 100 trillion connections and about 20 watts. Take a 3D brain apart, fire a neuron, light up the areas you use to speak, and watch memories move while you sleep.\n\nSave this for later, then play with the interactive version at glassbox-production-fd52.up.railway.app/brainclear (link in bio).\n\nBox No. 030 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #brain #neuroscience #neurons #synapses #memory #sleep",
+    "youtube": {
+      "title": "How does the brain work? #shorts",
+      "description": "86 billion neurons, 100 trillion connections and about 20 watts. Take a 3D brain apart, fire a neuron, light up the areas you use to speak, and watch memories move while you sleep.\n\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/brainclear/\n⌘ Source code (MIT): https://github.com/bdeeps/brainclear\n\nBox No. 030 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does the brain work? (interactive explainer)",
+      "description": "86 billion neurons, 100 trillion connections and about 20 watts. Take a 3D brain apart, fire a neuron, light up the areas you use to speak, and watch memories move while you sleep.\n\n▶ Play with the interactive version: https://glassbox-production-fd52.up.railway.app/e/brainclear/\n⌘ Source code (MIT): https://github.com/bdeeps/brainclear\n\nIn this video:\n• Two halves, four lobes, one busy core. The cerebrum's two hemispheres each have frontal, parietal, temporal and occipital lobes, wrapped in a folded cortex only 2 to 4 mm thick.\n• Neurons fire all-or-nothing spikes. A neuron rests at about −70 mV.\n• Synapses turn sparks into chemicals. At a synapse, the spike lets calcium in, vesicles spill neurotransmitter across a 20 nm gap, and receptors on the next cell open.\n• Areas have jobs, but you use all of it. Vision is at the back, hearing on the temporal lobe, movement and touch on strips either side of the central sulcus, with huge areas for hands and lips.\n• Memories are sorted by day and filed by night. The hippocampus tags new experiences, as the patient H.M.\n• A hungry organ that needs its blood. At about 2% of body weight, the brain uses about 20% of the body's energy, about 20 W.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does the brain work?\n\n86 billion neurons, 100 trillion connections and about 20 watts.\n\nPlay with it: https://glassbox-production-fd52.up.railway.app/e/brainclear/",
+    "linkedin": "How does the brain work?\n\n86 billion neurons, 100 trillion connections and about 20 watts. Take a 3D brain apart, fire a neuron, light up the areas you use to speak, and watch memories move while you sleep.\n\n1. Two halves, four lobes, one busy core\n2. Neurons fire all-or-nothing spikes\n3. Synapses turn sparks into chemicals\n4. Areas have jobs, but you use all of it\n5. Memories are sorted by day and filed by night\n6. A hungry organ that needs its blood\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 030 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox-production-fd52.up.railway.app/e/brainclear/\nCode: https://github.com/bdeeps/brainclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-09-27T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-09-27T12:15:38.195Z"
+}

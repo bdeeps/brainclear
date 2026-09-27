@@ -1,0 +1,105 @@
+{
+  "slug": "brainclear",
+  "box": 30,
+  "date": "2026-10-10",
+  "title": "BrainClear",
+  "question": "How does the brain work?",
+  "hook": "86 billion neurons, 100 trillion connections and about 20 watts. Take a 3D brain apart, fire a neuron, light up the areas you use to speak, and watch memories move while you sleep.",
+  "thumbText": "HOW THE BRAIN WORKS",
+  "field": "body",
+  "minutes": 15,
+  "tags": [
+    "brain",
+    "neuroscience",
+    "neurons",
+    "synapses",
+    "memory",
+    "sleep",
+    "stroke",
+    "human body",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Two halves, four lobes, one busy core",
+      "text": "The cerebrum's two hemispheres each have frontal, parietal, temporal and occipital lobes, wrapped in a folded cortex only 2 to 4 mm thick. Under the back sits the cerebellum, and the brainstem joins it all to the spinal cord. Deep inside are the thalamus, hippocampus, amygdala and basal ganglia."
+    },
+    {
+      "title": "Neurons fire all-or-nothing spikes",
+      "text": "A neuron rests at about −70 mV. When its inputs push it past about −55 mV, sodium rushes in and it fires a 1 to 2 ms spike to about +35 mV. A stronger push makes more spikes, not bigger ones. Myelin makes spikes jump along the axon at up to about 120 m/s."
+    },
+    {
+      "title": "Synapses turn sparks into chemicals",
+      "text": "At a synapse, the spike lets calcium in, vesicles spill neurotransmitter across a 20 nm gap, and receptors on the next cell open. Glutamate says go, GABA says stop. Many small inputs must add up to fire the next cell, and learning strengthens the synapses that are used together."
+    },
+    {
+      "title": "Areas have jobs, but you use all of it",
+      "text": "Vision is at the back, hearing on the temporal lobe, movement and touch on strips either side of the central sulcus, with huge areas for hands and lips. Each side controls the opposite side of the body. The 10% myth and left-brain or right-brain personalities are myths: scans show the whole brain at work."
+    },
+    {
+      "title": "Memories are sorted by day and filed by night",
+      "text": "The hippocampus tags new experiences, as the patient H.M. showed in 1953. Sleep runs in about 90-minute cycles, and during deep sleep the hippocampus replays the day to the cortex for long-term storage."
+    },
+    {
+      "title": "A hungry organ that needs its blood",
+      "text": "At about 2% of body weight, the brain uses about 20% of the body's energy, about 20 W. A blocked artery, a stroke, can cost about 1.9 million neurons a minute, so learn BE FAST and call for help. For any worry about your own health, see a doctor."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Neuron",
+      "def": "A nerve cell that receives signals on its dendrites and sends spikes along its axon. The brain has about 86 billion."
+    },
+    {
+      "term": "Action potential",
+      "def": "A spike: a brief, all-or-nothing flip of a neuron's voltage from about −70 mV to about +35 mV."
+    },
+    {
+      "term": "Myelin",
+      "def": "Fatty insulation around many axons that makes spikes jump between gaps, the nodes of Ranvier, much faster."
+    },
+    {
+      "term": "Synapse",
+      "def": "The junction where one neuron passes a signal to another, usually by releasing a neurotransmitter."
+    },
+    {
+      "term": "Neurotransmitter",
+      "def": "A chemical messenger such as glutamate (go), GABA (stop), dopamine or serotonin."
+    },
+    {
+      "term": "Cortex",
+      "def": "The folded outer 2 to 4 mm of grey matter, where most thinking, sensing and planning happens."
+    },
+    {
+      "term": "Hippocampus",
+      "def": "A curved structure deep in each temporal lobe that is key to forming new memories."
+    },
+    {
+      "term": "Neuroplasticity",
+      "def": "The brain's ability to change its connections with learning, practice and recovery."
+    },
+    {
+      "term": "Stroke",
+      "def": "Brain damage from a blocked or burst artery. Warning signs: BE FAST."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "brainclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "title": "The history of the brain",
+  "tagline": "8,500 years from holes in skulls to a count of 86 billion neurons.",
+  "intro": "For most of history people argued about whether we think with the heart or the head. Surgeons, anatomists, doctors and patients slowly proved it is the brain, then found its parts, its cells, its electricity and its chemistry. Today scanners watch it work, and there is still far more to learn.",
+  "eras": [
+    { "id": "ancient", "name": "Skulls, hearts and heads", "from": -6500, "to": 250, "color": "#c49bff", "summary": "Stone Age surgeons open skulls, an Egyptian papyrus describes the brain, and Greek doctors argue that the mind lives in the head, not the heart." },
+    { "id": "anatomy", "name": "Opening up the organ", "from": 1540, "to": 1850, "color": "#ffd166", "summary": "Anatomists draw the brain accurately for the first time, give neurology its name, and find that nerves run on electricity." },
+    { "id": "places", "name": "Where things happen", "from": 1845, "to": 1960, "color": "#5ce1a9", "summary": "Injured and ill patients reveal that different parts of the brain have different jobs, and surgeons map them. Hospitals for the brain and mind open, including in India." },
+    { "id": "cells", "name": "Cells, sparks and chemicals", "from": 1870, "to": 1980, "color": "#ff8fc4", "summary": "Stains reveal single neurons, and scientists discover synapses, brain waves, the spike, chemical messengers, and how learning changes connections." },
+    { "id": "imaging", "name": "Watching the living brain", "from": 1970, "to": 2026, "color": "#6fa8ff", "summary": "Scanners show the working brain without surgery, neurons are finally counted, and big projects map its wiring." }
+  ],
+  "events": [
+    {
+      "year": -6500, "date": "c. 6500 BCE", "era": "ancient", "art": "skeleton", "key": true,
+      "title": "Stone Age surgeons open the skull",
+      "who": "Neolithic people", "where": "France, and later across Europe, Asia and the Americas", "country": "France",
+      "text": "Some of the oldest known holes cut into living people’s skulls come from Neolithic graves in France. At one site, about a third of the skulls had been trepanned. Many show healed bone, so patients often survived.",
+      "why": "It is the oldest known brain surgery, though we can only guess why it was done.",
+      "sources": [0]
+    },
+    {
+      "year": -1600, "date": "c. 1600 BCE", "era": "ancient", "art": "scroll", "key": true,
+      "title": "The first written description of the brain",
+      "who": "Unknown Egyptian physician", "where": "Egypt", "country": "Egypt",
+      "text": "The Edwin Smith Papyrus, a copy of an even older surgical text, describes 48 injury cases. It contains the first known descriptions of the brain’s surface, its coverings and the fluid around it, and notes that head injuries can paralyse the body.",
+      "why": "It links the brain to control of the body more than 3,500 years ago.",
+      "box": "anatomy",
+      "sources": [1, 2]
+    },
+    {
+      "year": -500, "date": "c. 500 BCE", "era": "ancient", "art": "eye", "key": false,
+      "title": "The senses lead to the brain",
+      "who": "Alcmaeon of Croton", "where": "Croton, southern Italy", "country": "Italy",
+      "text": "The Greek thinker Alcmaeon is credited with arguing that the senses connect to the brain and that the brain is where we understand. Only fragments of his work survive, so this is attributed to him by later writers.",
+      "why": "It is one of the earliest known claims that thinking happens in the head.",
+      "sources": [3]
+    },
+    {
+      "year": -400, "date": "c. 400 BCE", "era": "ancient", "art": "word", "key": true,
+      "title": "The brain is the seat of the mind",
+      "who": "Hippocratic writers", "where": "Greece", "country": "Greece",
+      "text": "The Hippocratic text On the Sacred Disease says epilepsy is not a curse from the gods but a disorder of the brain. It says that joy, sorrow, thought and madness all come from the brain.",
+      "why": "It treated the brain, not the heart or the gods, as the source of the mind and its illnesses.",
+      "sources": [4]
+    },
+    {
+      "year": 170, "date": "c. 160–180 CE", "era": "ancient", "art": "person", "key": false,
+      "title": "Galen silences a squealing pig",
+      "who": "Galen of Pergamon", "where": "Rome", "country": "Italy",
+      "text": "The physician Galen showed in public experiments that cutting certain nerves in the neck silenced a pig’s squeal while it kept breathing. He argued that the brain, through the nerves, controls the voice and the muscles.",
+      "why": "His ideas, right and wrong, guided medicine for about 1,400 years.",
+      "sources": [5]
+    },
+    {
+      "year": 1543, "date": "1543", "era": "anatomy", "art": "skeleton", "key": false,
+      "title": "The brain drawn from real dissection",
+      "who": "Andreas Vesalius", "where": "Padua, Italy; printed in Basel", "country": "Italy",
+      "text": "Vesalius’s book De humani corporis fabrica showed the brain in detailed woodcuts made from human dissections. He corrected many of Galen’s errors, which had come from studying animals.",
+      "why": "It made careful observation, not old books, the basis of anatomy.",
+      "sources": [6]
+    },
+    {
+      "year": 1664, "date": "1664", "era": "anatomy", "art": "brain", "key": true,
+      "title": "The word “neurology” is born",
+      "who": "Thomas Willis, with drawings by Christopher Wren", "where": "Oxford, England", "country": "United Kingdom",
+      "text": "Willis’s Cerebri Anatome was the most detailed study of the brain yet. It introduced the term neurology and described the ring of arteries at the base of the brain, still called the circle of Willis.",
+      "why": "It placed functions like memory and movement in the brain’s tissue rather than its hollow ventricles.",
+      "box": "health",
+      "sources": [7]
+    },
+    {
+      "year": 1791, "date": "1791", "era": "anatomy", "art": "bolt", "key": true,
+      "title": "Frog legs twitch with electricity",
+      "who": "Luigi Galvani", "where": "Bologna, Italy", "country": "Italy",
+      "text": "Galvani found that touching a frog’s nerve with metals, or with an electric spark, made its leg muscles twitch. He published his results in 1791 and argued that nerves carry a kind of animal electricity.",
+      "why": "It began the science of electricity in nerves, the basis of every spike.",
+      "box": "neurons",
+      "sources": [8]
+    },
+    {
+      "year": 1847, "date": "1847", "era": "places", "art": "building", "key": false,
+      "title": "An asylum in Bangalore",
+      "who": "Government of Mysore, under British rule", "where": "Bangalore, India", "country": "India",
+      "text": "The Bangalore Lunatic Asylum opened in 1847. It was renamed the Mental Hospital in 1925 and later grew into one of India’s leading institutes for the brain and mind.",
+      "why": "It is the root of NIMHANS, India’s national institute for mental health and neurosciences.",
+      "sources": [9]
+    },
+    {
+      "year": 1848, "date": "13 September 1848", "era": "places", "art": "person", "key": false,
+      "title": "An iron rod through Phineas Gage",
+      "who": "Phineas Gage and Dr John Harlow", "where": "Cavendish, Vermont, USA", "country": "USA",
+      "text": "A tamping iron blasted through the left frontal lobe of railway foreman Phineas Gage. He survived and could walk and talk, but his doctor reported that his personality changed. Historians now think he later recovered much of his social skill.",
+      "why": "His case suggested the frontal lobes shape behaviour and self-control.",
+      "box": "map",
+      "sources": [10]
+    },
+    {
+      "year": 1861, "date": "1861", "era": "places", "art": "word", "key": true,
+      "title": "Speech has a place",
+      "who": "Paul Broca", "where": "Paris, France", "country": "France",
+      "text": "Broca examined the brain of a patient, Louis Leborgne, who could understand speech but say only one syllable, “tan”. He found damage in the left frontal lobe, the area now called Broca’s area.",
+      "why": "It was strong evidence that particular brain areas have particular jobs.",
+      "box": "map",
+      "sources": [11]
+    },
+    {
+      "year": 1873, "date": "1873", "era": "cells", "art": "flask", "key": false,
+      "title": "The black reaction",
+      "who": "Camillo Golgi", "where": "Abbiategrasso, Italy", "country": "Italy",
+      "text": "Golgi found that silver nitrate stains a few nerve cells completely black, showing every branch. For the first time, single neurons could be seen whole under a microscope.",
+      "why": "His stain made it possible to study the brain one cell at a time.",
+      "sources": [12]
+    },
+    {
+      "year": 1874, "date": "1874", "era": "places", "art": "ear", "key": false,
+      "title": "An area for understanding words",
+      "who": "Carl Wernicke", "where": "Breslau, then Germany (now Wrocław, Poland)", "country": "Germany",
+      "text": "Wernicke described patients who spoke fluently but made little sense and struggled to understand others. The damage was in the left temporal lobe, in what is now called Wernicke’s area.",
+      "why": "It showed that language relies on connected areas, not a single spot.",
+      "box": "map",
+      "sources": [13]
+    },
+    {
+      "year": 1888, "date": "1888", "era": "cells", "art": "lens", "key": false,
+      "title": "Neurons are separate cells",
+      "who": "Santiago Ramón y Cajal", "where": "Barcelona, Spain", "country": "Spain",
+      "text": "Using an improved version of Golgi’s stain, Cajal showed that nerve cells are separate units that nearly touch, not one continuous net. His thousands of drawings still appear in textbooks.",
+      "why": "The neuron doctrine is the foundation of modern neuroscience.",
+      "box": "neurons",
+      "sources": [14]
+    },
+    {
+      "year": 1897, "date": "1897", "era": "cells", "art": "word", "key": false,
+      "title": "The synapse gets its name",
+      "who": "Charles Sherrington", "where": "Liverpool, England", "country": "United Kingdom",
+      "text": "Sherrington introduced the word synapse, from Greek for “to clasp”, for the junction where one neuron passes a signal to the next. He went on to show how nerve signals add up and hold each other back.",
+      "why": "It named the place where almost all brain computing happens.",
+      "box": "synapses",
+      "sources": [15]
+    },
+    {
+      "year": 1906, "date": "1906", "era": "cells", "art": "trophy", "key": true,
+      "title": "Rivals share a Nobel Prize",
+      "who": "Camillo Golgi and Santiago Ramón y Cajal", "where": "Stockholm, Sweden", "country": "Sweden",
+      "text": "Golgi and Cajal shared the Nobel Prize for their work on the structure of the nervous system. In their lectures they still disagreed: Golgi defended a continuous net, Cajal separate neurons. Cajal was right.",
+      "why": "It crowned the discovery of the neuron as the brain’s basic unit.",
+      "box": "neurons",
+      "sources": [16, 12, 14]
+    },
+    {
+      "year": 1921, "date": "1921", "era": "cells", "art": "flask", "key": false,
+      "title": "A dream about chemical messages",
+      "who": "Otto Loewi", "where": "Graz, Austria", "country": "Austria",
+      "text": "Loewi said an experiment came to him in a dream. Fluid from a frog heart slowed by its vagus nerve also slowed a second heart. Nerves must release a chemical, later identified as acetylcholine.",
+      "why": "It proved that nerves talk to other cells with chemicals: neurotransmitters.",
+      "box": "synapses",
+      "sources": [17]
+    },
+    {
+      "year": 1924, "date": "1924", "era": "cells", "art": "sinewave", "key": true,
+      "title": "The first human brain waves",
+      "who": "Hans Berger", "where": "Jena, Germany", "country": "Germany",
+      "text": "Berger recorded tiny electrical waves from a person’s scalp, the first human electroencephalogram (EEG). He hesitated for five years and published in 1929. The rhythm he saw with eyes closed is the alpha wave.",
+      "why": "EEG let doctors watch the living brain’s activity, including in sleep and epilepsy.",
+      "box": "memory",
+      "sources": [18]
+    },
+    {
+      "year": 1937, "date": "1937", "era": "places", "art": "person", "key": false,
+      "title": "Maps of the body on the brain",
+      "who": "Wilder Penfield and Edwin Boldrey", "where": "Montreal Neurological Institute, Canada", "country": "Canada",
+      "text": "During epilepsy surgery on awake patients, Penfield gently stimulated the cortex with electricity and asked what they felt. He mapped the body along the motor and touch strips, later drawn as the homunculus.",
+      "why": "His maps showed the crossed, distorted body plan in the cortex, with huge hands and lips.",
+      "box": "map",
+      "sources": [19]
+    },
+    {
+      "year": 1949, "date": "1949", "era": "cells", "art": "word", "key": false,
+      "title": "Cells that fire together",
+      "who": "Donald Hebb", "where": "Montreal, Canada", "country": "Canada",
+      "text": "In his book The Organization of Behavior, Hebb proposed that when one cell repeatedly helps fire another, the connection between them grows stronger. The phrase “cells that fire together wire together” came later as a summary.",
+      "why": "It gave a cell-level idea of how learning could work.",
+      "box": "synapses",
+      "sources": [20]
+    },
+    {
+      "year": 1949, "date": "1949–1950", "era": "places", "art": "building", "key": false,
+      "title": "Neurosurgery comes to India",
+      "who": "Jacob Chandy and B. Ramamurthi", "where": "Vellore and Madras (Chennai), India", "country": "India",
+      "text": "Jacob Chandy, trained under Penfield in Montreal, started India’s first neurology and neurosurgery department at Christian Medical College, Vellore, in 1949. In 1950 B. Ramamurthi set up the neurosurgery department in Madras. Both trained generations of Indian neurosurgeons.",
+      "why": "They built brain surgery in India almost from scratch.",
+      "sources": [21, 22, 23]
+    },
+    {
+      "year": 1952, "date": "1952", "era": "cells", "art": "bolt", "key": true,
+      "title": "The equations of the spike",
+      "who": "Alan Hodgkin and Andrew Huxley", "where": "Cambridge and Plymouth, England", "country": "United Kingdom",
+      "text": "Working with the giant nerve fibre of the squid, Hodgkin and Huxley measured how sodium flowing in and potassium flowing out create the action potential. Their equations predicted the spike’s shape and speed. They shared the 1963 Nobel Prize with John Eccles.",
+      "why": "It explained the nerve impulse in the language of physics.",
+      "box": "neurons",
+      "sources": [24, 25]
+    },
+    {
+      "year": 1953, "date": "1953", "era": "places", "art": "brain", "key": true,
+      "title": "H.M. and the making of memory",
+      "who": "Henry Molaison, William Scoville and Brenda Milner", "where": "Hartford, Connecticut, USA, and Montreal, Canada", "country": "USA",
+      "text": "To treat severe epilepsy, surgeon William Scoville removed much of both of Henry Molaison’s hippocampi. Afterwards he could not form new lasting memories of events, though he could still learn skills. Psychologist Brenda Milner and others studied him for decades.",
+      "why": "His case showed that the hippocampus is key to forming new memories.",
+      "box": "memory",
+      "sources": [26]
+    },
+    {
+      "year": 1953, "date": "1953", "era": "cells", "art": "eye", "key": false,
+      "title": "REM sleep is discovered",
+      "who": "Eugene Aserinsky and Nathaniel Kleitman", "where": "University of Chicago, USA", "country": "USA",
+      "text": "Watching sleepers’ eyes and brain waves, Aserinsky and Kleitman found regular periods of rapid eye movement with an active, awake-looking EEG. People woken from them often reported vivid dreams.",
+      "why": "It showed that sleep has distinct stages, and that the brain is busy during it.",
+      "box": "memory",
+      "sources": [27]
+    },
+    {
+      "year": 1959, "date": "1959", "era": "cells", "art": "eye", "key": false,
+      "title": "Neurons that see edges",
+      "who": "David Hubel and Torsten Wiesel", "where": "Johns Hopkins University, Baltimore, USA", "country": "USA",
+      "text": "Hubel, from Canada, and Wiesel, from Sweden, recorded single neurons in the visual cortex and found each fired for lines at a particular angle. Vision is built up from simple features. They shared the 1981 Nobel Prize.",
+      "why": "It showed how the visual cortex turns light into shapes, step by step.",
+      "box": "map",
+      "sources": [28]
+    },
+    {
+      "year": 1973, "date": "1973", "era": "cells", "art": "bolt", "key": false,
+      "title": "A lasting boost at synapses",
+      "who": "Timothy Bliss and Terje Lømo", "where": "Oslo, Norway", "country": "Norway",
+      "text": "Stimulating a pathway into a rabbit’s hippocampus with rapid bursts made its synapses respond more strongly for hours or longer. This long-term potentiation (LTP) is a leading cellular model of learning and memory.",
+      "why": "It found in real tissue the kind of change Hebb had predicted.",
+      "box": "synapses",
+      "sources": [29]
+    },
+    {
+      "year": 1974, "date": "27 December 1974", "era": "imaging", "art": "building", "key": false,
+      "title": "NIMHANS is born",
+      "who": "Government of India and the state of Karnataka", "where": "Bengaluru, India", "country": "India",
+      "text": "The Bangalore mental hospital and the All India Institute of Mental Health became the National Institute of Mental Health and Neurosciences, an autonomous institute. It became a deemed university in 1994 and an Institute of National Importance in 2012.",
+      "why": "It became a major centre for brain research, treatment and training in India.",
+      "sources": [9]
+    },
+    {
+      "year": 1990, "date": "1990", "era": "imaging", "art": "mri", "key": true,
+      "title": "Watching thought through blood",
+      "who": "Seiji Ogawa and colleagues", "where": "AT&T Bell Laboratories, New Jersey, USA", "country": "USA",
+      "text": "Ogawa showed that MRI can detect changes in blood oxygen in the brain, the BOLD signal. Busy brain areas get extra oxygen-rich blood, so scanners can map which parts work during a task. This became functional MRI.",
+      "why": "fMRI lets scientists watch healthy human brains at work without surgery.",
+      "box": "map",
+      "sources": [30]
+    },
+    {
+      "year": 1996, "date": "1996", "era": "imaging", "art": "person", "key": false,
+      "title": "A mirror box for phantom limbs",
+      "who": "V. S. Ramachandran and Diane Rogers-Ramachandran", "where": "San Diego, USA", "country": "USA",
+      "text": "Indian-born neuroscientist V. S. Ramachandran used a simple box with a mirror to let people see a reflection of their missing arm moving. For some, feelings in the phantom limb changed, and some felt it move.",
+      "why": "It became a famous demonstration that the brain’s body map can change: neuroplasticity.",
+      "box": "health",
+      "sources": [31]
+    },
+    {
+      "year": 2009, "date": "2009", "era": "imaging", "art": "brain", "key": true,
+      "title": "Counting 86 billion neurons",
+      "who": "Frederico Azevedo, Suzana Herculano-Houzel and colleagues", "where": "Rio de Janeiro and São Paulo, Brazil", "country": "Brazil",
+      "text": "Herculano-Houzel’s team dissolved brains into a soup of cell nuclei and counted them. Four adult male brains held on average about 86 billion neurons and a similar number of other cells, not the 100 billion neurons and ten times more glia often quoted.",
+      "why": "It replaced a guessed number with a measured one.",
+      "box": "anatomy",
+      "sources": [32, 33]
+    },
+    {
+      "year": 2009, "date": "2009–2010", "era": "imaging", "art": "chip", "key": false,
+      "title": "Mapping the brain’s wiring",
+      "who": "US National Institutes of Health and university teams", "where": "USA and UK", "country": "USA",
+      "text": "The NIH launched the Human Connectome Project in 2009 and funded two research groups in 2010. They scanned over a thousand healthy adults to map the brain’s connections, and shared the data freely.",
+      "why": "Open maps of brain wiring now support research worldwide.",
+      "sources": [34]
+    }
+  ],
+  "firsts": [
+    { "label": "Oldest known brain surgery", "value": "c. 6500 BCE", "who": "Neolithic trepanation, France" },
+    { "label": "First written description of the brain", "value": "c. 1600 BCE", "who": "Edwin Smith Papyrus, Egypt" },
+    { "label": "The word “neurology”", "value": "1664", "who": "Thomas Willis, England" },
+    { "label": "First human EEG", "value": "1924", "who": "Hans Berger, Germany" },
+    { "label": "First neurosurgery department in India", "value": "1949", "who": "Jacob Chandy, Vellore" },
+    { "label": "First fMRI (BOLD) images", "value": "1990", "who": "Seiji Ogawa, USA" }
+  ],
+  "people": [
+    { "name": "Santiago Ramón y Cajal", "life": "1852 – 1934", "role": "Neuroanatomist", "from": "Spain", "note": "Showed that the brain is made of separate neurons, and drew them beautifully." },
+    { "name": "Brenda Milner", "life": "born 1918", "role": "Neuropsychologist", "from": "England and Canada", "note": "Her decades of work with H.M. helped found the modern science of memory." },
+    { "name": "Henry Molaison (H.M.)", "life": "1926 – 2008", "role": "Research participant", "from": "USA", "note": "Helped the world understand memory by taking part in studies for over 50 years." },
+    { "name": "Jacob Chandy", "life": "1910 – 2007", "role": "Neurosurgeon", "from": "India", "note": "Founded India’s first neurology and neurosurgery department at CMC Vellore in 1949." },
+    { "name": "B. Ramamurthi", "life": "1922 – 2003", "role": "Neurosurgeon", "from": "India", "note": "Built neurosurgery in Madras from 1950 and later led the World Federation of Neurosurgical Societies." },
+    { "name": "Suzana Herculano-Houzel", "life": "born 1972", "role": "Neuroscientist", "from": "Brazil", "note": "Invented a way to count brain cells and found about 86 billion neurons." },
+    { "name": "Wilder Penfield", "life": "1891 – 1976", "role": "Neurosurgeon", "from": "USA and Canada", "note": "Mapped the cortex of awake patients and inspired the homunculus." }
+  ],
+  "series": [
+    {
+      "id": "neurons", "title": "How many neurons different brains hold", "unit": "neurons", "log": true, "after": "imaging",
+      "caption": "Whole-brain neuron counts from Herculano-Houzel’s lab, placed at the year each was published. A human brain has over 1,000 times as many neurons as a mouse brain.",
+      "points": [
+        { "year": 2005, "value": 200000000, "label": "Rat: about 200 million (Herculano-Houzel and Lent, 2005)" },
+        { "year": 2006, "value": 71000000, "label": "Mouse: about 71 million (Herculano-Houzel, Mota and Lent, 2006)" },
+        { "year": 2007, "value": 6400000000, "label": "Rhesus macaque: about 6.4 billion (Herculano-Houzel and colleagues, 2007)" },
+        { "year": 2009, "value": 86000000000, "label": "Human: about 86 billion (Azevedo and colleagues, 2009)" }
+      ]
+    }
+  ],
+  "facts": [
+    "About 69 of your 86 billion neurons are in the cerebellum, the small “little brain” at the back.",
+    "Your brain is about 2% of your body weight but uses about 20% of its energy at rest.",
+    "The cortex is only 2 to 4 mm thick; folding lets a large sheet fit inside the skull.",
+    "The brain itself has no pain sensors, which is why surgeons like Penfield could operate on awake patients.",
+    "“We only use 10% of our brain” is a myth: scans show activity all over the brain."
+  ],
+  "sources": [
+    { "title": "Trepanning", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Trepanning" },
+    { "title": "Edwin Smith Papyrus", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Edwin_Smith_Papyrus" },
+    { "title": "Edwin Smith papyrus", "publisher": "Encyclopaedia Britannica", "url": "https://www.britannica.com/topic/Edwin-Smith-papyrus" },
+    { "title": "Alcmaeon", "publisher": "Stanford Encyclopedia of Philosophy", "url": "https://plato.stanford.edu/entries/alcmaeon/" },
+    { "title": "On the Sacred Disease", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/On_the_Sacred_Disease" },
+    { "title": "Galen", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Galen" },
+    { "title": "De humani corporis fabrica", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/De_humani_corporis_fabrica" },
+    { "title": "Thomas Willis", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Thomas_Willis" },
+    { "title": "Luigi Galvani", "publisher": "Encyclopaedia Britannica", "url": "https://www.britannica.com/biography/Luigi-Galvani" },
+    { "title": "National Institute of Mental Health and Neurosciences", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/National_Institute_of_Mental_Health_and_Neurosciences" },
+    { "title": "Phineas Gage", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Phineas_Gage" },
+    { "title": "Paul Broca", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Paul_Broca" },
+    { "title": "Camillo Golgi: facts", "publisher": "NobelPrize.org", "url": "https://www.nobelprize.org/prizes/medicine/1906/golgi/facts/" },
+    { "title": "Carl Wernicke", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Carl_Wernicke" },
+    { "title": "Santiago Ramón y Cajal: facts", "publisher": "NobelPrize.org", "url": "https://www.nobelprize.org/prizes/medicine/1906/cajal/facts/" },
+    { "title": "Charles Scott Sherrington", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Charles_Scott_Sherrington" },
+    { "title": "The Nobel Prize in Physiology or Medicine 1906", "publisher": "NobelPrize.org", "url": "https://www.nobelprize.org/prizes/medicine/1906/summary/" },
+    { "title": "Otto Loewi: facts", "publisher": "NobelPrize.org", "url": "https://www.nobelprize.org/prizes/medicine/1936/loewi/facts/" },
+    { "title": "Hans Berger", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Hans_Berger" },
+    { "title": "Cortical homunculus", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Cortical_homunculus" },
+    { "title": "Donald O. Hebb", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Donald_O._Hebb" },
+    { "title": "Jacob Chandy", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Jacob_Chandy" },
+    { "title": "History of neurosurgery at Christian Medical College, Vellore: a pioneer’s tale", "publisher": "Neurology India (via PubMed)", "url": "https://pubmed.ncbi.nlm.nih.gov/26954810/" },
+    { "title": "B. Ramamurthi", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/B._Ramamurthi" },
+    { "title": "Hodgkin–Huxley model", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Hodgkin%E2%80%93Huxley_model" },
+    { "title": "The Nobel Prize in Physiology or Medicine 1963", "publisher": "NobelPrize.org", "url": "https://www.nobelprize.org/prizes/medicine/1963/summary/" },
+    { "title": "Henry Molaison", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Henry_Molaison" },
+    { "title": "Rapid eye movement sleep", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Rapid_eye_movement_sleep" },
+    { "title": "The Nobel Prize in Physiology or Medicine 1981", "publisher": "NobelPrize.org", "url": "https://www.nobelprize.org/prizes/medicine/1981/summary/" },
+    { "title": "Long-term potentiation", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Long-term_potentiation" },
+    { "title": "Functional magnetic resonance imaging", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging" },
+    { "title": "Synaesthesia in phantom limbs induced with mirrors (1996)", "publisher": "Proceedings of the Royal Society B", "url": "https://royalsocietypublishing.org/doi/10.1098/rspb.1996.0058" },
+    { "title": "Equal numbers of neuronal and nonneuronal cells make the human brain an isometrically scaled-up primate brain (2009)", "publisher": "Journal of Comparative Neurology", "url": "https://onlinelibrary.wiley.com/doi/10.1002/cne.21974" },
+    { "title": "List of animals by number of neurons", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/List_of_animals_by_number_of_neurons" },
+    { "title": "NIH launches the Human Connectome Project to unravel the brain’s connections", "publisher": "National Institute of Mental Health", "url": "https://www.nimh.nih.gov/news/science-updates/2009/nih-launches-the-human-connectome-project-to-unravel-the-brains-connections" },
+    { "title": "Cellular scaling rules for primate brains (2007)", "publisher": "PNAS", "url": "https://www.pnas.org/doi/10.1073/pnas.0611396104" }
+  ]
+}
